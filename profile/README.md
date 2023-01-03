@@ -17,10 +17,10 @@
 
 ## Included Skills
 ### Web
-```...```
+```Reactjs``` ```Nextjs``` ```Typescript```
 
 ### Back-end
-```...```
+```Spring``` ```Springboot```
 
 ### Mobile
 ```Flutter``` ```Dart``` ```DevTools``` 
