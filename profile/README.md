@@ -23,4 +23,4 @@
 ```Spring``` ```Springboot```
 
 ### Mobile
-```Flutter``` ```Dart``` ```DevTools``` 
+```Flutter``` ```Dart``` ```DevTools``` ```DIO``` ```FlutterSecureStorage``` 
