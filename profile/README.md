@@ -13,7 +13,17 @@
 - 위 내용을 토대로 와플 프로젝트는 GDSC-SKHU 운영 편의성을 높일 수 있다는 유의미한 결론을 도출할 수 있을 것으로 기대합니다.
 
 ## Features
-- ...
+### Web
+- `...`
+- `해당 문장 지우고 동일하게 추가해주시면 됩니다.`
+
+### Mobile
+
+<p align="center">
+<img width="230" alt="login" src="https://user-images.githubusercontent.com/26790710/212306511-93aace15-4fe1-41d8-8bc3-8f1ec587cae1.png">
+<img width="230" alt="manager" src="https://user-images.githubusercontent.com/26790710/212306606-ae18233e-fc02-4306-aa82-564d570e2c6f.png">
+<img width="230" alt="member" src="https://user-images.githubusercontent.com/26790710/212306621-017b9c83-f3b9-4abc-afdb-56b210298e11.png">
+</p>
 
 ## Members
 |Role|Name|Github|
