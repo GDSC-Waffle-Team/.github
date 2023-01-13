@@ -10,20 +10,37 @@
     5 멤버는 다양한 값을 임의로 변경하거나 삭제할 수 없습니다. 
     6 멤버는 관리자와 다르게 다른 멤버의 상태를 확인하거나, 지정할 수 없습니다.
   ```
-- 위 내용을 토대로 와플 프로젝트는 GDSC-SKHU 운영 편의성을 높일 수 있다는 유의미한 결론을 도출할 수 있을 것으로 기대합니다.
 
 ## Features
-### Web
-- `...`
-- `해당 문장 지우고 동일하게 추가해주시면 됩니다.`
+> 디테일 토글 아래 해당하는 프로젝트 스냅샷을 확인할 수 있습니다.
+<details>
+<summary><h3>Web</h3></summary>
+<div markdown="1">
+<p align="center">
+<!--`해당 문장 지우고 동일하게 추가하면 됩니다.`-->
+</p>
+</div>
+</details>
 
-### Mobile
+<details>
+<summary><h3>Backend</h3></summary>
+<div markdown="1">
+<p align="center">
+<!--`해당 문장 지우고 동일하게 추가하면 됩니다.`-->
+</p>
+</div>
+</details>
 
+<details>
+<summary><h3>Mobile</h3></summary>
+<div markdown="1">
 <p align="center">
 <img width="230" alt="login" src="https://user-images.githubusercontent.com/26790710/212306511-93aace15-4fe1-41d8-8bc3-8f1ec587cae1.png">
 <img width="230" alt="manager" src="https://user-images.githubusercontent.com/26790710/212306606-ae18233e-fc02-4306-aa82-564d570e2c6f.png">
 <img width="230" alt="member" src="https://user-images.githubusercontent.com/26790710/212306621-017b9c83-f3b9-4abc-afdb-56b210298e11.png">
 </p>
+</div>
+</details>
 
 ## Members
 |Role|Name|Github|
