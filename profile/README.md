@@ -56,7 +56,7 @@
 ```Reactjs``` ```Nextjs``` ```Typescript```
 
 ### Back-end
-```Spring``` ```Springboot```
+```Spring``` ```Springboot``` ```MySQL``` ```GCP```
 
 ### Mobile
 ```Flutter``` ```Dart``` ```DevTools``` ```Convert``` ```Http``` ```FlutterSecureStorage``` 
